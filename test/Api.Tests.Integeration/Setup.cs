@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc.Testing;
 
 namespace Api.Tests.Integeration
 {
-    public class Setup : WebApplicationFactory<Api.Program>
+    public class Setup : WebApplicationFactory<Api.Controllers.CalculatorController>
     {
 
     }
