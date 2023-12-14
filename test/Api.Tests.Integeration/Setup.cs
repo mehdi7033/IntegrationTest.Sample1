@@ -1,5 +1,4 @@
 ﻿//install-package Microsoft.AspNetCore.Mvc.Testing
-//install-package Microsoft.AspNetCore.TestHosting
 //install-package fluentassertions
 
 using Microsoft.AspNetCore.Mvc.Testing;
